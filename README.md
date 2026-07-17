@@ -1,6 +1,6 @@
 # Advanced Programming Assignment 🚀
 
-![Language](https://img.shields.io/badge/Language-Insert_Language-blue.svg)
+![Language](https://img.shields.io/badge/Java_Language-blue.svg)
 ![Build](https://img.shields.io/badge/Status-Completed-success.svg)
 
 ## 📌 Overview
